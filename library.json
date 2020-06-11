@@ -1,0 +1,18 @@
+{
+    "name": "AudioBuzzer",
+    "keywords": "music, buzzer",
+    "description": "A music library for buzzers",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/capitanfuturo/arduino-coffin-buzzer.git"
+    },
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "platforms": "atmelavr",
+    "authors": [
+        {
+            "name": "Giuseppe Caliendo",
+            "email": "giuseppe.caliendo@gmail.com"
+        }
+    ]
+}
